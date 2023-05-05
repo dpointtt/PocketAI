@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="PocketAI.Theme.Light" parent="PocketAI.Theme">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/app_green</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/app_white</item>
+        <item name="android:textColor">@color/app_black</item>
+        <item name="android:editTextColor">@color/app_black</item>
+        <item name="android:windowBackground">@color/app_white</item>
+        <item name="backgroundTint">@color/app_green</item>
+        <item name="android:textColorHint">@color/app_gray</item>
+        <item name="colorOnBackground">@color/app_light_blue</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/app_green</item>
+        <item name="colorSecondaryVariant">@color/app_green</item>
+        <item name="colorOnSecondary">@color/app_gray_opacity40</item>
+
+        <!--Font-->
+        <item name="android:fontFamily">@font/roboto_medium</item>
+    </style>
+</resources>

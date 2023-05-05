@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PocketAI</string>
+    <string name="app_logo_desc">PocketAI Logo</string>
+    <string name="app_welcome_text">Artificial intelligence right in your pocket.\nFast.\nComfortable.\nCompact.</string>
+    <string name="send_btn_desc">Enter Request to AI</string>
+    <string name="send_btn_hint">Enter message</string>
+    <string name="avatar">Avatar</string>
+</resources>
